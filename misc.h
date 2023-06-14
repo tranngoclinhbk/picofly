@@ -1,4 +1,4 @@
-#define PIX_blu 0x00003F
+#define PIX_blu 0x111111
 #define PIX_yel 0x00FF00
 #define PIX_whi 0x111111
 #define PIX_green 0x00FF00
