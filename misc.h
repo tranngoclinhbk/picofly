@@ -1,5 +1,5 @@
 #define PIX_blu 0xFF0000
-#define PIX_yel 0x00FF00
+#define PIX_yel 0xFF0000
 #define PIX_whi 0x111111
 #define PIX_red 0x00FF00
 
