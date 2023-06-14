@@ -102,7 +102,7 @@ int main()
     // is chip reset required
     bool force_button = detect_by_pull_up(1, 0);
     // start LED
-    put_pixel(PIX_blu);
+    put_pixel(PIX_green);
     // test pins
     self_test();
     // wait till the CPU has proper power & started reading the eMMC

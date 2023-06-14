@@ -1,7 +1,8 @@
-#define PIX_blu 0xFF0000
-#define PIX_yel 0xFF0000
-#define PIX_whi 0xFF0000
+#define PIX_blu 0x00003F
+#define PIX_yel 0x151500
+#define PIX_whi 0x111111
 #define PIX_red 0x00FF00
+#define PIX_green 0x3F0000
 
 #define PIX_b 0x00000F
 

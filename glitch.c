@@ -141,7 +141,7 @@ void inc_tries()
     if(tries & 1)
         put_pixel(PIX_b);
     else
-        put_pixel(PIX_blu);
+        put_pixel(PIX_green);
 }
 
 // random() for glitch offset array generation
